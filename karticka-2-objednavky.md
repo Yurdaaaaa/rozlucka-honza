@@ -1,4 +1,4 @@
-# Kartička 2 — Objednávky
+# 📋 Kartička 2 — Objednávky
 
 **Zodpovědnost:** vše, co se **objednává předem** u pekaře / cukrárny / restaurace — ne z obchodu.
 
@@ -6,14 +6,14 @@
 
 ## Seznam — co objednat
 
-### Rychlé jídlo
+### 🍔 Rychlé jídlo
 
-- [ ] Řízky (objednat)
+- [ ] 🍗 Řízky (objednat)
 
-### Sladké
+### 🍰 Sladké
 
 *Buchty a koláčky slouží i na snídani — objednat jen jednou.*
 
-- [ ] Koláčky (objednat)
-- [ ] Buchty (objednat)
-- [ ] Zákusky (objednat)
+- [ ] 🍰 Koláčky (objednat)
+- [ ] 🥐 Buchty (objednat)
+- [ ] 🍰 Zákusky (objednat)

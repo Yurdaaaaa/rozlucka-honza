@@ -1,4 +1,4 @@
-# Kartička 1 — Pití
+# 🍺 Kartička 1 — Pití
 
 **Zodpovědnost:** sud, pípa, chlazení, vše na pití + drobnosti u sudu.
 
@@ -6,21 +6,21 @@
 
 ## Seznam — co zařídit
 
-### Sud a technika
+### 🍺 Sud a technika
 
-- [ ] Sud 50 l (koupit / půjčit)
-- [ ] Pípa (koupit / půjčit)
-- [ ] Chlazení (koupit / půjčit)
+- [ ] 🍺 Sud 50 l (koupit / půjčit)
+- [ ] 🍺 Pípa (koupit / půjčit)
+- [ ] 🧊 Chlazení (koupit / půjčit)
 
-### Nápoje
+### 🥤 Nápoje
 
-- [ ] Voda (koupit)
-- [ ] Kofola / Cola / jiné nealko v sudu (koupit)
-- [ ] Tvrdší alkohol než líh — případně (koupit)
+- [ ] 💧 Voda (koupit)
+- [ ] 🥤 Kofola / Cola / jiné nealko v sudu (koupit)
+- [ ] 🥃 Tvrdší alkohol než líh — případně (koupit)
 
 ### Drobnosti u sudu
 
-- [ ] Kelímky (koupit)
-- [ ] Led (koupit)
-- [ ] Otvírák (koupit)
-- [ ] Pytle na odpadky u sudu (koupit)
+- [ ] 🥤 Kelímky (koupit)
+- [ ] 🧊 Led (koupit)
+- [ ] 🔧 Otvírák (koupit)
+- [ ] 🗑️ Pytle na odpadky u sudu (koupit)

@@ -1,4 +1,4 @@
-# Kartička 3 — Nákupy: zobání a snídaně
+# 🥨 Kartička 3 — Nákupy: zobání a snídaně
 
 **Zodpovědnost:** vše z obchodu na zobání přes den, k řízkům a na snídani. Gril řeší kartička 4.
 
@@ -6,26 +6,26 @@
 
 ## Seznam — co koupit
 
-### Rychlé jídlo / k řízkům
+### 🍔 Rychlé jídlo / k řízkům
 
-- [ ] Chleba (koupit)
-- [ ] Pečivo (koupit)
-- [ ] Nakládané věci (koupit)
+- [ ] 🥖 Chleba (koupit)
+- [ ] 🥖 Pečivo (koupit)
+- [ ] 🥒 Nakládané věci (koupit)
 
-### Zobání přes den
+### 🥨 Zobání přes den
 
-- [ ] Chipsy (koupit)
-- [ ] Oříšky (koupit)
-- [ ] Tyčinky (koupit) *(pokrývá i sladké — nekupovat 2×)*
-- [ ] Drobné sladkosti (koupit)
+- [ ] 🍟 Chipsy (koupit)
+- [ ] 🥜 Oříšky (koupit)
+- [ ] 🍫 Tyčinky (koupit) *(pokrývá i sladké — nekupovat 2×)*
+- [ ] 🍬 Drobné sladkosti (koupit)
 
-### Snídaně
+### 🥐 Snídaně
 
-- [ ] Máslo (koupit)
-- [ ] Pomazánky (koupit)
-- [ ] Marmeláda (koupit)
-- [ ] Šunka (koupit)
-- [ ] Sýr na snídani (koupit) *(domluvit s kartičkou 4 — ideálně jeden nákup sýrů)*
-- [ ] Vajíčka (koupit)
+- [ ] 🧈 Máslo (koupit)
+- [ ] 🧈 Pomazánky (koupit)
+- [ ] 🍓 Marmeláda (koupit)
+- [ ] 🥩 Šunka (koupit)
+- [ ] 🧀 Sýr na snídani (koupit) *(domluvit s kartičkou 4 — ideálně jeden nákup sýrů)*
+- [ ] 🥚 Vajíčka (koupit)
 
 **Už řeší kartička 2 — neobjednávat znovu:** buchty, koláčky, zákusky

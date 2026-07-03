@@ -1,4 +1,4 @@
-# Kartička 4 — Nákupy: gril
+# 🔥 Kartička 4 — Nákupy: gril
 
 **Zodpovědnost:** kompletní grilový nákup z obchodu.
 
@@ -6,37 +6,37 @@
 
 ## Seznam — co koupit
 
-### Maso a pečivo
+### 🍔 Maso a pečivo
 
-- [ ] Bulky (koupit)
-- [ ] Klobásy (koupit)
-- [ ] Maso / burgery — klidně irské z Kauflandu, 98 % masa, cca 100 Kč (koupit)
-- [ ] Kuřecí (koupit)
-- [ ] Slanina (koupit)
-- [ ] Špek (koupit)
+- [ ] 🥖 Bulky (koupit)
+- [ ] 🌭 Klobásy (koupit)
+- [ ] 🍔 Maso / burgery — klidně irské z Kauflandu, 98 % masa, cca 100 Kč (koupit)
+- [ ] 🍗 Kuřecí (koupit)
+- [ ] 🥓 Slanina (koupit)
+- [ ] 🐖 Špek (koupit)
 
-### Sýry
+### 🧀 Sýry
 
-- [ ] Sýr na gril (koupit) *(domluvit s kartičkou 3 — ideálně jeden nákup sýrů)*
-- [ ] Hermelín (koupit)
+- [ ] 🧀 Sýr na gril (koupit) *(domluvit s kartičkou 3 — ideálně jeden nákup sýrů)*
+- [ ] 🧀 Hermelín (koupit)
 
-### Omáčky a koření
+### 🥫 Omáčky a koření
 
-- [ ] Kečup (koupit)
-- [ ] BBQ omáčka (koupit)
-- [ ] Hořčice (koupit)
-- [ ] Česneková omáčka (koupit)
-- [ ] Křen (koupit)
+- [ ] 🥫 Kečup (koupit)
+- [ ] 🥫 BBQ omáčka (koupit)
+- [ ] 🥫 Hořčice (koupit)
+- [ ] 🥫 Česneková omáčka (koupit)
+- [ ] 🥫 Křen (koupit)
 
-### Zelenina
+### 🥗 Zelenina
 
-- [ ] Cibule (koupit)
-- [ ] Papriky (koupit)
-- [ ] Rajčata (koupit)
-- [ ] Nakládané okurky (koupit)
+- [ ] 🧅 Cibule (koupit)
+- [ ] 🫑 Papriky (koupit)
+- [ ] 🍅 Rajčata (koupit)
+- [ ] 🥒 Nakládané okurky (koupit)
 
-### Ovoce
+### 🍌 Ovoce
 
-- [ ] Banány (koupit)
-- [ ] Meloun (koupit)
-- [ ] Další ovoce dle chuti (koupit)
+- [ ] 🍌 Banány (koupit)
+- [ ] 🍉 Meloun (koupit)
+- [ ] 🍎 Další ovoce dle chuti (koupit)

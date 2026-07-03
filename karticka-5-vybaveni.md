@@ -1,4 +1,4 @@
-# Kartička 5 — Vybavení
+# 🔊 Kartička 5 — Vybavení
 
 **Zodpovědnost:** půjčení repráku a světýlek + drobnosti k jídlu, co nejsou potravina.
 
@@ -6,13 +6,13 @@
 
 ## Seznam — co zařídit
 
-### Hudba a atmosféra
+### 🔊 Hudba a atmosféra
 
-- [ ] WiFi/Bluetooth reprák (půjčit)
-- [ ] Světýlka (půjčit)
+- [ ] 📶 WiFi/Bluetooth reprák (půjčit)
+- [ ] 💡 Světýlka (půjčit)
 
 ### Drobnosti k jídlu
 
-- [ ] Ubrousky (koupit)
-- [ ] Alobal (koupit)
-- [ ] Tácy na řízky (koupit)
+- [ ] 🧻 Ubrousky (koupit)
+- [ ] 📦 Alobal (koupit)
+- [ ] 🍽️ Tácy na řízky (koupit)
